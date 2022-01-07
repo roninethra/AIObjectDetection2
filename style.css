@@ -1,0 +1,46 @@
+body{
+    background-color: yellow;
+}
+
+#heading{
+color: white;
+background-color: blue;
+width: 50%;
+text-align: center;
+border-radius: 20px;
+padding: 15px;
+}
+
+.style1{
+    color:blue;
+    background-color: white;
+    border-radius: 20px;
+    padding: 15px;
+    width: 25%;
+}
+
+
+#name{
+    color: white;
+background-color:blue;
+border-radius: 20px;
+padding: 15px;
+width: 25%;
+}
+
+#copyrightfooter{
+    color: white;
+    background-color:blue;
+    border-radius: 20px;
+    padding: 15px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
+
+canvas{
+    margin-top: 100px;
+    background-color: blue;
+}
+
+
